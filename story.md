@@ -1,15 +1,6 @@
----
-name: Story
-about: Create a User Story to enhance the product
-title: ''
-labels: enhancement
-assignees: ''
-
----
-
-**As a** ...  
-**I need** ...  
-**So that** ...  
+**As a** [role]
+**I need** [function]  
+**So that** [benefit] 
 
 **Details & Assumptions:** 
 * ...
